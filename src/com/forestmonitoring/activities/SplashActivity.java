@@ -11,6 +11,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.util.Log;
 //import android.util.Log;
 import android.view.View;
 import android.view.Window;
@@ -33,7 +34,7 @@ public class SplashActivity extends Activity
 		super.onCreate(savedInstanceState);
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.splash_layout);
-
+Log.d("Test", "Test");
 		initview();
 		new SplashTimerTask().execute();
 	}
