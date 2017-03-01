@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Forest Monitoring System</string>
+    <string name="no_internet">No network connection found! Please check your network connection.</string>
+    <string name="response_timeout">Response time out error! Please check your internet connection and try again.</string>
+    <string name="auth_failure">Server authentication failed! Please try again.</string>
+    <string name="server_error">Server isn\'t responding! Please try again.</string>
+    <string name="network_error">Network not found! Please check your internet connection and try again.</string>
+    <string name="parse_error">Unable to parse Data! Please try again.</string>
+    <string name="offline_storage">Network connection is weak!\nData has been saved in offline mode.\nPlease use "OFFLINE DATA SYNC" button at the "ACTION PAGE" to upload the data when network connection is available.</string>
+    <string name="credentials_missmatch">Your present credentials do not match with your last login credentials!\nPlease enter proper credentials.</string>
+    <string name="login_name">Forest Monitoring System</string>
+    <string name="project_type">Project Type</string>
+    <string name="project">Project</string>
+    <string name="subproject">Sub Project</string>
+</resources>

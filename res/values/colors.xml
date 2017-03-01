@@ -1,0 +1,23 @@
+<resources>
+
+    <color name="black">#000</color>
+    <color name="sky_blue">#33b5e5</color>
+    <color name="brown">#72472a</color>
+    <color name="white">#fff</color>
+    <color name="dark_blue">#1835A4</color>
+    <color name="btn_blue">#1835a4</color>
+    <color name="opacity_red">#CE5043</color>
+    <color name="short_preview_backrund_blue">#4eb1cc</color>
+    
+   
+    <color name="username_onfocus">#647d2b</color>
+    <color name="username_offfocus">#848587</color>
+    
+    <color name="login_pressed">#8da751</color>
+    <color name="login_notpressed">#78913e</color>
+    
+    <color name="login_notpressed_60">#9978913e</color>
+  
+   
+    
+</resources>
